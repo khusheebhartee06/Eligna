@@ -1,0 +1,117 @@
+.bgimg a img{
+    height: 50%;
+    width: 50%;
+}
+.bgimg{
+    background-image: url(Untitled\ design\ \(3\).png);
+    background-size: 100%;
+    width: 100%;
+    height:660px;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+#myimage{
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+.heading{
+
+margin-top:23%;
+margin-left: 10%;
+margin-bottom: 23%;
+}
+.heading a{
+    font-weight: bold;
+}
+.col-sm-6 h2{
+    
+    margin-top: 20%;
+    font-size: 55px;
+    font-weight: bold;
+}
+#paragraph{
+    padding: 4%;
+
+}
+#image img{
+    margin-top: 10%;
+    width: 100%;
+    height: 70%;
+    box-shadow: 4px 6px  2px gray;
+
+}
+.col-sm-12 h2{
+    font-size: 45px;
+    font-weight: bold;
+margin-left: 3%;
+}
+.col-sm-4{
+    padding: 1%;
+} 
+.col-sm-4 h3:hover{
+    color: goldenrod;
+}
+.col-sm-4 #img-1{
+    float: right;
+}
+a{
+text-decoration: none;
+}
+#backimg h3{
+    font-weight: bold;
+    font-size:40;
+}
+#backimg{
+    background-image: url(get\ free\ flower.jpg);
+    width: 100%;
+    height: 100%;
+    background-size: 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+
+}
+#manyicon{
+    background-color: rgb(226, 220, 220);
+    margin: 4%;
+}
+#manyicon img{
+    height: 100%;
+    width: 100%;
+    box-shadow: 4px 6px  2px gray;
+
+}
+#manyicon h2{
+    margin-top: 10%;
+}
+#elignaicon img{
+    height: 80%;
+    width: 100%;
+    padding: 10PX;
+}
+#elignaicon .col-sm-3{
+    border: 2px solid gray;
+    border-radius: 20PX;
+    box-shadow: 4px 6px  2px gray;
+
+
+}
+#heading2 .col-lg-4{
+    padding: 10px;
+    border: 2px solid rgb(210, 206, 206);
+    border-radius: 20px;
+    box-shadow: 4px 6px  2px gray;
+
+}
+#heading2 h2{
+margin-top: 10%;
+
+}
+#heading2 img{
+    height: 80%;
+    width: 100%;
+}

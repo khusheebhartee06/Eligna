@@ -1,0 +1,38 @@
+.bgimg a img{
+    height: 50%;
+    width: 50%;
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+#myimage1{
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+.bgimg{
+    background-image: url(client\ .jpg);
+    background-size: 100%;
+    width: 100%;
+    height:100%;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+}
+.container h1{
+    color: white;
+    padding-top: 15%;
+    padding-bottom: 25%;
+}
+#myimage .row{
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+#myimage img{
+    height: 90%;
+width: 100%;
+}
+#myimage img:hover{
+    border: 2px solid rgb(190, 184, 184);
+    border-radius: 10%;
+    box-shadow:6px 6px 3px 4px  gray;
+}

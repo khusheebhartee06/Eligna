@@ -1,0 +1,46 @@
+.bgimg a img{
+    height: 50%;
+    width: 50%;
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+#myimage{
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+.bgimg{
+    background-image: url(abouta.png);
+    background-size: 100%;
+    width: 100%;
+  height: 90%;
+  background-repeat: no-repeat;
+
+    background-attachment:fixed;
+}
+.bgimg .container h1{
+    padding-top: 4%;
+ padding-bottom: 15%;
+    font-size: 51px;
+    font-weight: bold;
+    color: rgb(251, 250, 248);
+}
+.col-sm-12  h1{
+    font-size: 45px;
+    font-weight: bold;
+}
+.col-sm-6 h1{
+    font-size: 45px;
+    font-weight: bold;
+    word-spacing: 5px;
+    padding: 3%;
+}
+.col-sm-6 img{
+    padding: 6%;
+    width: 100%;
+    height: 100%;
+}
+a{
+    text-decoration: none;
+}

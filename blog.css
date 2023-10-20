@@ -1,0 +1,47 @@
+.bgimg a img{
+    height: 50%;
+    width: 50%;
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+#myimage{
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+.bgimg{
+    background-image: url(blog1.jfif);
+    background-size: 100%;
+    width: 100%;
+   height: 50%;
+    background-attachment:fixed;
+    background-repeat: no-repeat;
+}
+#myheading h1{
+    color: rgb(235, 164, 12);
+    font-size: 45px;
+    font-weight: bold;
+    padding-top:10% ;
+    padding-bottom: 25%;
+
+}
+#img-11 img{
+    height: 100%;
+    width: 100%;
+}
+a{
+    text-decoration: none;
+}
+hr{
+    color: rgb(78, 77, 76);
+}
+#myparagraph{
+    border-radius: 10px;
+    margin-top: 15%;
+    padding: 10%;
+    border: 2px solid rgb(181, 179, 179);
+}
+#myparagraph h3{
+    font-weight: bold;
+}

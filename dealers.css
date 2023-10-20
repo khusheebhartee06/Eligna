@@ -1,0 +1,36 @@
+.bgimg a img{
+    height: 100%;
+    width: 100%;
+}
+.bgimg{
+    background-image: url(Untitled\ design\ \(6\).png);
+    background-size: 100%;
+    width: 100%;
+    height:100%;
+    background-attachment:fixed;
+}
+#myimage{
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+}
+.container h1{
+    font-size: 55px;
+    color: rgb(9, 186, 245);
+    padding-top: 15%;
+    padding-bottom: 25%;
+    font-weight: bold;
+}
+.dropdown:hover > .dropdown-menu{
+    display: block;
+}
+#myinformation .col-sm-6 h4{
+   font-weight: bold;
+   
+}
+#myinformation .col-sm-6 {
+  padding: 1%;
+   border: 1px solid rgb(195, 191, 191);
+   border-radius: 5%;
+   box-shadow: 3px 3px 2px 4px gray;
+}
